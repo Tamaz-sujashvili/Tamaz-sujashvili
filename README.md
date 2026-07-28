@@ -12,6 +12,20 @@
 
 ###
 
+<div data-importer="pinned" align="center">
+  <a href="https://github.com/Tamaz-sujashvili/senior-code-mcp">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tamaz-sujashvili&repo=senior-code-mcp&theme=chartreuse-dark&hide_border=true" alt="senior-code-mcp repository" />
+  </a>
+  <a href="https://github.com/Tamaz-sujashvili/macro-dashboard-streamlit">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tamaz-sujashvili&repo=macro-dashboard-streamlit&theme=chartreuse-dark&hide_border=true" alt="macro-dashboard-streamlit repository" />
+  </a>
+  <a href="https://github.com/Tamaz-sujashvili/create-wiki">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tamaz-sujashvili&repo=create-wiki&theme=chartreuse-dark&hide_border=true" alt="create-wiki repository" />
+  </a>
+</div>
+
+###
+
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/tamaz-sujashvili-3694682a5/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
