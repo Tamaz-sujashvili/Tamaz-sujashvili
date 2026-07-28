@@ -5,7 +5,9 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tamaz-sujashvili&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <a href="https://tamaz-sujashvili.pages.dev/" target="_blank">
+    <img src="https://tamaz-sujashvili.pages.dev/og-card.svg" alt="Tamaz Sujashvili portfolio banner" />
+  </a>
 </div>
 
 ###
