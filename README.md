@@ -13,15 +13,32 @@
 ###
 
 <div data-importer="pinned" align="center">
-  <a href="https://github.com/Tamaz-sujashvili/senior-code-mcp">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tamaz-sujashvili&repo=senior-code-mcp&theme=chartreuse-dark&hide_border=true" alt="senior-code-mcp repository" />
-  </a>
-  <a href="https://github.com/Tamaz-sujashvili/macro-dashboard-streamlit">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tamaz-sujashvili&repo=macro-dashboard-streamlit&theme=chartreuse-dark&hide_border=true" alt="macro-dashboard-streamlit repository" />
-  </a>
-  <a href="https://github.com/Tamaz-sujashvili/create-wiki">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tamaz-sujashvili&repo=create-wiki&theme=chartreuse-dark&hide_border=true" alt="create-wiki repository" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Tamaz-sujashvili/senior-code-mcp">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tamaz-sujashvili&repo=senior-code-mcp&theme=chartreuse-dark&hide_border=true" alt="senior-code-mcp repository" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Tamaz-sujashvili/macro-dashboard-streamlit">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tamaz-sujashvili&repo=macro-dashboard-streamlit&theme=chartreuse-dark&hide_border=true" alt="macro-dashboard-streamlit repository" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Tamaz-sujashvili/create-wiki">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tamaz-sujashvili&repo=create-wiki&theme=chartreuse-dark&hide_border=true" alt="create-wiki repository" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Tamaz-sujashvili/dynamic-workflow-explained">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tamaz-sujashvili&repo=dynamic-workflow-explained&theme=chartreuse-dark&hide_border=true" alt="dynamic-workflow-explained repository" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
