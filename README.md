@@ -1,9 +1,5 @@
-<img data-importer="snake" src="https://raw.githubusercontent.com/Tamaz-sujashvili/Tamaz-sujashvili/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamaz-sujashvili&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tamaz-sujashvili&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
