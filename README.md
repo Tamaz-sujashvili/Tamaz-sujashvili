@@ -13,25 +13,29 @@
 ###
 
 <div data-importer="pinned" align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td valign="top" width="50%">
-        <a href="https://github.com/Tamaz-sujashvili/senior-code-mcp"><strong>Senior Code MCP</strong></a><br />
-        <sub>Offline semantic code search and dependency context for AI coding agents.</sub>
+      <td valign="top" width="50%" height="190">
+        <h3><a href="https://github.com/Tamaz-sujashvili/senior-code-mcp">Senior Code MCP</a></h3>
+        <sub>Offline semantic code search and dependency context for AI coding agents.</sub><br /><br />
+        <sub>TypeScript · MCP · Local-first</sub>
       </td>
-      <td valign="top" width="50%">
-        <a href="https://github.com/Tamaz-sujashvili/macro-dashboard-streamlit"><strong>Macro Dashboard Streamlit</strong></a><br />
-        <sub>Macro regime detectors, consensus scoring, liquidity, positioning, and options overlays.</sub>
+      <td valign="top" width="50%" height="190">
+        <h3><a href="https://github.com/Tamaz-sujashvili/macro-dashboard-streamlit">Macro Dashboard Streamlit</a></h3>
+        <sub>Macro regime detectors, consensus scoring, liquidity, positioning, and options overlays.</sub><br /><br />
+        <sub>Python · Streamlit · Quant research</sub>
       </td>
     </tr>
     <tr>
-      <td valign="top" width="50%">
-        <a href="https://github.com/Tamaz-sujashvili/create-wiki"><strong>Create Wiki</strong></a><br />
-        <sub>Agent skill for persistent, compounding knowledge bases as linked markdown files.</sub>
+      <td valign="top" width="50%" height="190">
+        <h3><a href="https://github.com/Tamaz-sujashvili/create-wiki">Create Wiki</a></h3>
+        <sub>Agent skill for persistent, compounding knowledge bases as linked markdown files.</sub><br /><br />
+        <sub>Markdown · Knowledge management · Agents</sub>
       </td>
-      <td valign="top" width="50%">
-        <a href="https://github.com/Tamaz-sujashvili/dynamic-workflow-explained"><strong>Dynamic Workflow Explained</strong></a><br />
-        <sub>Plain-language guide to two-layer execution and adversarial convergence for agents.</sub>
+      <td valign="top" width="50%" height="190">
+        <h3><a href="https://github.com/Tamaz-sujashvili/dynamic-workflow-explained">Dynamic Workflow Explained</a></h3>
+        <sub>Plain-language guide to two-layer execution and adversarial convergence for agents.</sub><br /><br />
+        <sub>AI agents · Workflow design · Engineering</sub>
       </td>
     </tr>
   </table>
