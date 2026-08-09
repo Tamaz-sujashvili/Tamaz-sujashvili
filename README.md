@@ -60,11 +60,3 @@
 <p data-importer="text" align="left">https://tamaz-sujashvili.pages.dev/</p>
 
 ###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamaz-sujashvili/Tamaz-sujashvili/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamaz-sujashvili/Tamaz-sujashvili/pacman-output/pacman-contribution-graph.svg?game=pacman" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tamaz-sujashvili/Tamaz-sujashvili/pacman-output/pacman-contribution-graph.svg?game=pacman" />
-</picture>
-
-###
