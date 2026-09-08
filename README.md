@@ -4,14 +4,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <a href="https://tamaz-sujashvili.pages.dev/" target="_blank">
-    <img src="https://tamaz-sujashvili.pages.dev/og-card.svg" alt="Tamaz Sujashvili portfolio banner" />
-  </a>
-</div>
-
-###
-
 <div data-importer="pinned" align="center">
   <table width="100%">
     <tr>
@@ -40,23 +32,5 @@
     </tr>
   </table>
 </div>
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/tamaz-sujashvili-3694682a5/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/Labarum_17" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  </a>
-  <a href="mailto:tamazsujashvili@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-</div>
-
-###
-
-<p data-importer="text" align="left">https://tamaz-sujashvili.pages.dev/</p>
 
 ###
